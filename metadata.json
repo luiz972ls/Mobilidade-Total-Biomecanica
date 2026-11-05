@@ -1,0 +1,6 @@
+{
+  "name": "Mobilidade Total — Plataforma de Biomecânica Clínica & Reprogramação Postural",
+  "description": "Sistema integrado de reprogramação postural, auto-mobilização articular (Mulligan/Maitland), liberação miofascial, drenagem craniofacial, mecânica respiratória 360°, auditoria biomecânica e biociência molecular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
